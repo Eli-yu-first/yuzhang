@@ -1,4 +1,4 @@
-<img width="996" alt="image" src="https://github.com/user-attachments/assets/4f47a484-cc83-4c3c-afcd-a24980fb13b7">---
+---
 title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
@@ -20,7 +20,7 @@ links:
   Code: https://github.com/luost26/academic-homepage
   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
-title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
+title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
