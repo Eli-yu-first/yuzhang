@@ -10,7 +10,7 @@ positions:
 
 email: "zy1914517727@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: "INA7I98AAAAJ"  # This is an example, replace it with your own Google Scholar ID
+gscholar: "https://scholar.google.com/citations?user=INA7I98AAAAJ"  # This is an example, replace it with your own Google Scholar ID
 github: Eli-yu-first
 twitter: @YuEli0681790578  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
