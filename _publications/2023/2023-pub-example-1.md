@@ -1,17 +1,19 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
-selected:       true
-pub:            "Nature Communications"
+title:          "Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction"
+date:           2023-10-15 00:01:00 +0800
+selected:       false
+pub:            "OpenReview"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  This paper proposes a post-hoc method for globally explaining black-box unsupervised anomaly detection models through rule extraction. The approach aims to improve the interpretability of these models in security applications, focusing on the extraction of distribution decomposition rules.
+cover:          /assets/images/covers/cover3.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+  - Ruoyu Li
+  - Qing Li*
+  - Yu Zhang
+  - Dan Zhao
+  - Yong Jiang
 links:
-  Paper: https://www.cell.com
+  Paper: https://openreview.net/forum?id=zfCNwRQ569&noteId=Sqm4b3H2VQ
+  Code: https://github.com/example
 ---

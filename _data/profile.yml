@@ -22,14 +22,14 @@ orcid: 0000-0001-8968-6683
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat witYu Zhangfur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    As a Master’s student at Tsinghua University’s National School of Excellence in Engineering, my research focuses on advanced AI-accelerated chips and unsupervised anomaly detection models. I am currently a Research Assistant under Professor Qing Li’s team at the Pengcheng National Key Laboratory, where I specialize in network anomaly detection mechanisms for edge devices. 
   </p>
-
+  <p>
+  In addition, my ongoing projects at Tsinghua’s AI Lab and within the smart factory domain address challenges in model compression and task scheduling. Notably, I have designed adaptive knowledge distillation techniques to compress visual models for CVPR 2025 submission and developed time-sensitive scheduling algorithms to enhance Edge-Cloud computing efficiency in industrial applications. Beyond research, I co-founded a software outsourcing studio, and my work in applied AI has earned national awards, including two gold medals in China’s Internet+ Innovation Competition. My skill set includes Java, Python, machine learning frameworks, and distributed computing platforms like Spark and Hadoop.
+  </p>
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).

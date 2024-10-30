@@ -1,22 +1,20 @@
+
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
+title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
+date:           2023-01-21 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Learning Representations (ICLR)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2023"
-
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+  This paper introduces Genos, a novel in-network framework for unsupervised anomaly detection that utilizes rule extraction to enhance interpretability. The proposed method aims to address challenges in existing intrusion detection systems by providing a transparent decision-making process.
+cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Ruoyu Li (University of ABC)*
+  - Qing Li*
+  - Yu Zhang
+  - Dan Zhao
+  - Yong Jiang
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Paper: https://ieeexplore.ieee.org/document/10621157
+  Code: https://github.com/example
 ---
