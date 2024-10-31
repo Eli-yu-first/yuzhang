@@ -1,7 +1,7 @@
 ---
 title:          "Deadline-Aware Dynamic Task Scheduling in Edge–Cloud Collaborative Computing"
 date:           2022-08-08 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "Electronics"
 pub_date:       "2022"
 abstract: >-
