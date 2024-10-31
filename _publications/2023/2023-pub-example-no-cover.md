@@ -1,4 +1,4 @@
----
+<!-- ---
 title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
 date:           2023-01-21 00:01:00 +0800
 selected:       false
@@ -15,4 +15,4 @@ authors:
   - Yong Jiang
 links:
   Paper: https://ieeexplore.ieee.org/document/10621157
----
+--- -->
