@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Yu Zhang"
 
 positions:
-- logo: /assets/images/badges/Tsinghualogo.png  # Logo is optional
+- logo: /assets/images/badges/Tsinghua_logo.png  # Logo is optional
   name: Tsinghua University
-- logo: /assets/images/badges/ShanghaiAILab.png
+- logo: /assets/images/badges/Shanghai_AILab.png
   name: Shanghai Artificial Intelligence Laboratory, China
 
 
