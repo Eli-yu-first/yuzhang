@@ -10,6 +10,6 @@ date: 2020-01-12 00:01:00 +0800
     <p class="card-text">
       Star history of the GitHub repository of this website.
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Give a star!</a></small></p>
+    <p class="card-text"><small><a href="https://github.com/Eli-yu-first" target="_blank">Fellow me!</a></small></p>
   </div>
 </div>
