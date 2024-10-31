@@ -1,19 +1,16 @@
----
-title:          "Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction"
-date:           2023-10-15 00:01:00 +0800
-selected:       false
-pub:            "OpenReview"
-pub_date:       "2023"
+title:          "Deadline-Aware Dynamic Task Scheduling in Edge–Cloud Collaborative Computing"
+date:           2022-08-08 00:00:00 +0800
+selected:       true
+pub:            "Electronics"
+pub_date:       "2022"
 abstract: >-
-  This paper proposes a post-hoc method for globally explaining black-box unsupervised anomaly detection models through rule extraction. The approach aims to improve the interpretability of these models in security applications, focusing on the extraction of distribution decomposition rules.
-cover:          /assets/images/covers/cover3.jpg
+  This paper explores a dynamic task scheduling approach in edge-cloud collaborative computing to meet the requirements of modern cyber-physical systems and Industrial IoT applications. The proposed scheduling algorithm, DSOTS, optimizes server selection and reduces latency in time-sensitive tasks. Further enhancement through a greedy strategy, TSGS, achieves server load balancing and minimizes SLA violations. Simulation results in an edge-cloud environment indicate that DSOTS reduces average processing time and cost by 30% and 45%, respectively, and SLA violations by 25% over current solutions.
+cover:          /assets/images/covers/Deadline-Aware2022.jpg
 authors:
-  - Ruoyu Li
-  - Qing Li*
   - Yu Zhang
-  - Dan Zhao
-  - Yong Jiang
+  - Bing Tang
+  - Jincheng Luo
+  - Jiaming Zhang
 links:
-  Paper: https://openreview.net/forum?id=zfCNwRQ569&noteId=Sqm4b3H2VQ
-  Code: https://github.com/example
+  Paper: https://www.mdpi.com/2079-9292/11/15/2464
 ---
