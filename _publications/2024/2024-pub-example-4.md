@@ -1,19 +1,21 @@
 ---
-title:          "Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction"
-date:           2023-12-22 00:00:00 +0800
-selected:       true
+title:          "Dissect Black Box: Interpreting for Rule-Based Explanations in Unsupervised Anomaly Detection"
+date:           2024-09-26 00:00:00 +0800
+selected:       false
 pub:            "(NeurIPS)"
-pub_date:       "2023"
+pub_date:       "2024"
 abstract: >-
-  This paper introduces a post-hoc interpretability method for unsupervised anomaly detection in security by leveraging rule extraction. We propose distribution decomposition rules using an Interior Clustering Tree and Compositional Boundary Exploration (CBE) algorithm to decompose normal data distributions and approximate model decision boundaries. This approach provides interpretable explanations for anomaly detection models and allows the creation of a rule-based surrogate model for deployment. Experimental results across multiple datasets demonstrate that our method enhances model fidelity, correctness, and robustness, outperforming existing interpretability techniques in unsupervised anomaly detection.
-cover:          /assets/images/covers/NIPS2023.jpg
+  This paper introduces the Segmentation Clustering Decision Tree (SCD-Tree) for interpretable rule-based explanations in unsupervised anomaly detection. The SCD-Tree dissects black-box models by clustering normal data distributions, integrating anomaly detection insights to enhance segmentation. The Gaussian Boundary Delineation (GBD) algorithm then refines these clusters, distinguishing normal from anomalous data with resilience to data drift. This method transforms complex anomaly detection into interpretable rules, demonstrated to improve explanation accuracy and robustness across various datasets, which is crucial for high-stakes fields such as network and IoT security.
+cover:          /assets/images/covers/NIPS2024.jpg
 authors:
-  - Ruoyu Li
-  - Qing Li#
   - Yu Zhang
-  - Dan Zhao
+  - Ruoyu Li
+  - Nengwu Wu
+  - Qing Li#
+  - Xinhan Lin
+  - Yang Hu
+  - Tao Li
   - Yong Jiang
-  - Yong Yang
 links:
-  Paper: https://openreview.net/forum?id=zfCNwRQ569
+  Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
 ---
