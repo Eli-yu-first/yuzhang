@@ -63,17 +63,6 @@ education:
    date: Mar. 2023 - present
 
 awards:
-- name: Member of the public welfare rescue team
-  date: 2020
-- name: International outstanding young volunteer
-  date: 2021
-- name: Education counselor for the third class of the 21st grade of big data
-  date: 2022
-- name: Graduate Students Committee of Tsinghua University, the Communist Youth League Member
-  date: 2023
-
-<!-- 
-awards:
 - name: The Mathematical Contest in Modeling (MCM) ——  [Finalist Award, top 1%]
   date: 2023
 - name: National College Student Algorithm Design and Programming Challenge ——  [Gold Medal]
@@ -91,4 +80,4 @@ awards:
 - name: Qingdao City Coronavirus Prevention and Control Hero Medal
   date: 2021
 - name: Outstanding university-level entrepreneur
-  date: 2022 -->
+  date: 2022
