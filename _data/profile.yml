@@ -3,9 +3,10 @@ secondary_name: ""
 navbar_name: "Yu Zhang"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/Tsinghualogo.png  # Logo is optional
+  name: Tsinghua University
+- logo: /assets/images/badges/ShanghaiAILab.png
+  name: Shanghai Artificial Intelligence Laboratory, China
 
 
 email: "zy1914517727@gmail.com"
