@@ -7,7 +7,7 @@ pub_date:       "2024"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">IEEE INFOCOM</span>'
 abstract: >-
   Genos is an unsupervised anomaly-based network intrusion detection framework utilizing programmable switches for high-throughput, in-network deployment. Unlike existing solutions, Genos leverages rule extraction for model-agnostic detection, featuring a Model Compiler, Model Interpreter, and Model Debugger to enhance interpretability and maintainability. Through a tree-based clustering and divide-and-conquer approach, Genos partitions feature space into subspaces for accurate boundary estimation and reduces updating overhead by selectively fine-tuning affected subspaces. Evaluation on physical hardware shows its capabilities of achieving 100 Gbps throughput, high interpretability, and minimal maintenance costs.
-cover:          /assets/images/covers/cover_example.jpg
+cover:          /assets/images/covers/INFOCOM2024.jpg
 authors:
   - Ruoyu Li
   - Qing Li#
@@ -16,5 +16,5 @@ authors:
   - Xi Xiao
   - Yong Jiang
 links:
-  Paper: https://doi.org/10.1109/INFOCOM52122.2024.10621157
+  Paper: https://ieeexplore.ieee.org/document/10621157
 ---
