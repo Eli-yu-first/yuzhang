@@ -16,4 +16,5 @@ authors:
   - Yong Yang
 links:
   Paper: https://openreview.net/forum?id=zfCNwRQ569
+  Code: https://github.com/Ruoyu-Li/UAD-Rule-Extraction
 ---
