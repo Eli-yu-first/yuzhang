@@ -44,23 +44,23 @@ education:
   #position: B.S. in Data science and big data technology
   #date: Sep. 2019 - June 2023
 
- experience:
- - name: Tsinghua Shenzhen International Graduate School, China
-   logo: /assets/images/badges/Tsinghua_logo.png
-   position: Research Intern, Algorithm Manager
-   date: Dec. 2022 - Dec. 2023
- - name: Peng Cheng Laboratory, China
-   logo: /assets/images/badges/Tsinghua_logo.png
-   position: Research Intern, Algorithm Manager
-   date: Dec. 2022 - Dec. 2023
-  - name: Shanghai Artificial Intelligence Laboratory, China
-   logo: /assets/images/badges/Shanghai_AILab.png
-   position: Research Intern, Algorithm Manager
-   date: Sep. 2023 - present
-  - name: Yuheng New Intelligence Technology Co., Ltd.
-   logo: /assets/images/badges/Shanghai_AILab.png
-   position: CEO & Chairman
-   date: Mar. 2023 - present
+experience:
+- name: Tsinghua Shenzhen International Graduate School, China
+  logo: /assets/images/badges/Tsinghua_logo.png
+  position: Research Intern, Algorithm Manager
+  date: Dec. 2022 - Dec. 2023
+- name: Peng Cheng Laboratory, China
+  logo: /assets/images/badges/Tsinghua_logo.png
+  position: Research Intern, Algorithm Manager
+  date: Dec. 2022 - Dec. 2023
+- name: Shanghai Artificial Intelligence Laboratory, China
+  logo: /assets/images/badges/Shanghai_AILab.png
+  position: Research Intern, Algorithm Manager
+  date: Sep. 2023 - present
+- name: Yuheng New Intelligence Technology Co., Ltd.
+  logo: /assets/images/badges/Shanghai_AILab.png
+  position: CEO & Chairman
+  date: Mar. 2023 - present
 
 awards:
 - name: The Mathematical Contest in Modeling (MCM) ——  [Finalist Award, top 1%]
