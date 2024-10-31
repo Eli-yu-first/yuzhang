@@ -1,8 +1,19 @@
 ---
-show: false
+show: true
 width: 6
-date: 2020-01-12 00:01:00 +0800
+date: 2024-11-12 00:01:00 +0800
 ---
+<div class="m-4">
+    <h5><i class="fa-solid fa-heart-circle-check"></i> Social Works</h5>
+    <ul>
+        <li>Member of the public welfare rescue team</li>
+        <li>International outstanding young volunteer</li>
+        <li>Education counselor for the third class of the 21st grade of big data</li>
+        <li>Graduate Students Committee of Tsinghua University, the Communist Youth League Member</li>
+    </ul>
+</div>
+
+<!-- 
 <div class="m-4">
     <h5>Education</h5>
     <ul class="list-unstyled mb-1">
@@ -20,4 +31,4 @@ date: 2020-01-12 00:01:00 +0800
         </li>
         {% endfor %}
     </ul>
-</div>
+</div> -->
