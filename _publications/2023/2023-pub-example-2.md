@@ -1,20 +1,19 @@
 ---
-title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
-date:           2024-05-20 00:00:00 +0800
-selected:       false
-pub:            "IEEE INFOCOM 2024 - IEEE Conference on Computer Communications"
-pub_date:       "2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">IEEE INFOCOM</span>'
+title:          "Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction"
+date:           2023-12-22 00:00:00 +0800
+selected:       true
+pub:            "(NeurIPS)"
+pub_date:       "2023"
 abstract: >-
-  Genos is an unsupervised anomaly-based network intrusion detection framework utilizing programmable switches for high-throughput, in-network deployment. Unlike existing solutions, Genos leverages rule extraction for model-agnostic detection, featuring a Model Compiler, Model Interpreter, and Model Debugger to enhance interpretability and maintainability. Through a tree-based clustering and divide-and-conquer approach, Genos partitions feature space into subspaces for accurate boundary estimation and reduces updating overhead by selectively fine-tuning affected subspaces. Evaluation on physical hardware shows its capabilities of achieving 100 Gbps throughput, high interpretability, and minimal maintenance costs.
-cover:          /assets/images/covers/INFOCOM2024.jpg
+  This paper introduces a post-hoc interpretability method for unsupervised anomaly detection in security by leveraging rule extraction. We propose distribution decomposition rules using an Interior Clustering Tree and Compositional Boundary Exploration (CBE) algorithm to decompose normal data distributions and approximate model decision boundaries. This approach provides interpretable explanations for anomaly detection models and allows the creation of a rule-based surrogate model for deployment. Experimental results across multiple datasets demonstrate that our method enhances model fidelity, correctness, and robustness, outperforming existing interpretability techniques in unsupervised anomaly detection.
+cover:          /assets/images/covers/NIPS2023.jpg
 authors:
   - Ruoyu Li
   - Qing Li#
   - Yu Zhang
   - Dan Zhao
-  - Xi Xiao
   - Yong Jiang
+  - Yong Yang
 links:
-  Paper: https://ieeexplore.ieee.org/document/10621157
+  Paper: https://openreview.net/forum?id=zfCNwRQ569
 ---
