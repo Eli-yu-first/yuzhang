@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #baseurl: "/yuzhang" # the subpath of your site, e.g. /blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://iloveeli.top" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
