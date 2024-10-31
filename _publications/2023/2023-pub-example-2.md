@@ -1,3 +1,4 @@
+---
 title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
 date:           2024-05-20 00:00:00 +0800
 selected:       false
@@ -9,7 +10,7 @@ abstract: >-
 cover:          /assets/images/covers/cover_example.jpg
 authors:
   - Ruoyu Li
-  - Qing Li
+  - Qing Li#
   - Yu Zhang
   - Dan Zhao
   - Xi Xiao
