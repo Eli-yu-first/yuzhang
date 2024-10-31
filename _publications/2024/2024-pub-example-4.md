@@ -1,7 +1,7 @@
 ---
 title:          "Dissect Black Box: Interpreting for Rule-Based Explanations in Unsupervised Anomaly Detection"
 date:           2024-09-26 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            "(NeurIPS)"
 pub_date:       "2024"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">NIPS</span>'
