@@ -8,7 +8,7 @@ pub:            "University Project"
 pub_date:       "2020"
 abstract: >-
   Developed an end-to-end exam paper generation system for educational informatization, covering all stages from paper creation to grading. Employed SpringCloudAlibaba for a distributed microservice framework, supporting web, mobile, and desktop platforms.
-cover:          /assets/images/covers/ExamPaperSystem.jpg
+cover:          /assets/images/covers/ExamPaperSystem.png
 authors:
   - Yu Zhang
   - Zhigang Wang
