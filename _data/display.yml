@@ -1,10 +1,11 @@
 homepage:
   show_experience: true
-  show_news: true
+  show_projects: true
   show_selected_publications: true
   num_news: 10
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  <a href="https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/" target="_blank"><i class="fas fa-pencil-ruler"></i> Yu Zhang · CV</a>
+  <a href="https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/" target="_blank"><i class="fa-solid fa-file-pen"></i> Yu Zhang · CV</a>
+# <i class="fas fa-pencil-ruler"></i> 
