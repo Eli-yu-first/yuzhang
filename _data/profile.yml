@@ -59,7 +59,7 @@ experience:
   date: Sep. 2023 - present
 - name: >- 
     Yuheng New Intelligence Technology Co., Ltd. 
-    <span class="badge badge-pill badge-success">ENTREPRENEURSHIP</span>
+    <span class="badge badge-pill badge-info">ENTREPRENEURSHIP</span>
   position: CEO & Chairman
   logo: /assets/images/badges/Shanghai_AILab.png
   date: Mar. 2023 - present
@@ -80,21 +80,21 @@ experience:
 awards:
 - name: >- 
         The Mathematical Contest in Modeling (MCM) * 2  —  
-        <span class="badge badge-pill badge-primary">Finalist Award, top 1%</span>
+        <span class="badge badge-pill badge-info">Finalist Award, top 1%</span>
   date: 2023
 - name: >- 
         National College Student Algorithm Design and Programming Challenge —  
-        <span class="badge badge-pill badge-warning">Gold</span>
+        <span class="badge badge-pill badge-info">Gold</span>
   date: 2023
 - name: Software copyrights * 6, Utility model patent * 1, Patent for invention * 1
   date: 2023
 - name: >- 
         International “Internet+” Innovation and Entrepreneurship Competition —  
-        <span class="badge badge-pill badge-warning">Gold</span>
+        <span class="badge badge-pill badge-info">Gold</span>
   date: 2023
 - name: >- 
         China International College Students' Innovation Competition —    
-        <span class="badge badge-pill badge-warning">Gold</span>
+        <span class="badge badge-pill badge-info">Gold</span>
   date: 2023
 - name: Outstanding cadre, outstanding graduate of Hunan Province
   date: 2023
