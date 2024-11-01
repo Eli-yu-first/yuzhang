@@ -14,6 +14,7 @@ email: "zy1914517727@gmail.com"
 gscholar: INA7I98AAAAJ # This is an example, replace it with your own Google Scholar ID
 github: Eli-yu-first
 twitter: YuEli0681790578  # Do not include the '@' symbol
+csdn: weixin_47160526
 wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >-
    Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -29,8 +30,7 @@ short_bio: >-
   My ongoing projects at Tsinghua’s AI Lab and within the smart factory domain address challenges in model compression and task scheduling. Notably, I have designed adaptive knowledge distillation techniques to compress visual models for CVPR 2025 submission and developed time-sensitive scheduling algorithms to enhance Edge-Cloud computing efficiency in industrial applications. Beyond research, I co-founded a software outsourcing studio, and my work in applied AI has earned national awards, including two gold medals in China’s Internet+ Innovation Competition. My skill set includes Java, Python, machine learning frameworks, and distributed computing platforms like Spark and Hadoop.
   </p>
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: Yu Zhang(张宇) · Eli_Yu
 
 education:
 - name: Tsinghua University
@@ -39,10 +39,10 @@ education:
     Institute of Nuclear and New Energy Technology <br/>
     Master. Student
   date: Sep. 2023 - present
-#- name: Hunan University of Science and Technology
-  #logo: /assets/images/badges/HNUST_logo.png
-  #position: B.S. in Data science and big data technology
-  #date: Sep. 2019 - June 2023
+- name: Hunan University of Science and Technology
+  logo: /assets/images/badges/HNUST_logo.png
+  position: B.S. in Data science and big data technology
+  date: Sep. 2019 - June 2023
 
 experience:
 - name: Tsinghua Shenzhen International Graduate School, China
