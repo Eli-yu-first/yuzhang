@@ -1,7 +1,7 @@
 {% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fa-solid fa-medal"></i> Awards</h6>
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fa-solid fa-laptop-file"></i> Projects</h6>
     <div class="px-3 pb-1">
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
@@ -11,6 +11,7 @@
                 {% for item in year.items %}
                 <div class="my-1 d-flex">
                     <div>{{ item.title }}</div>
+                    <div  style="margin-left: auto; margin-right: 5px;"> ( <i class="fa-light fa-user-graduate"></i> {{ item.position }} )</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
                 </div>
                 {% endfor %}
@@ -18,4 +19,7 @@
         </div>
         {% endfor %}
     </div>
+    <h6 class="d-block p-3 mt-0 text-right">
+        <a href="{{ 'projects' | relative_url }}">All Projects <i class="fas fa-angle-double-right"></i></a>
+    </h6>
 </div>

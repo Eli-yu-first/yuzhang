@@ -1,5 +1,6 @@
 ---
-title:          "Peng Cheng National Key Laboratory, Tsinghua University (Research Assistant, Algorithm Technical Leader)"
+title:          "Peng Cheng National Key Laboratory, Tsinghua University"
+position:          Research Assistant, Algorithm Technical Leader
 date:           2023-02-01 00:00:00 +0800
 selected:       false
 pub:            "Tsinghua University"

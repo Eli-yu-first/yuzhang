@@ -1,5 +1,6 @@
 ---
-title:          "Software Outsourcing Studio (Project Founder)"
+title:          "Software Outsourcing Studio"
+position:       Project Founder
 date:           2020-10-01 00:00:00 +0800
 selected:       false
 pub:            "Independent"

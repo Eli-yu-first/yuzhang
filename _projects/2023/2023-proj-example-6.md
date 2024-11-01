@@ -1,5 +1,6 @@
 ---
-title:          "Software and Web Development for Zhuzhou Gear Company (Project Leader)"
+title:          "Software and Web Development for Zhuzhou Gear Company"
+position:       Project Leader
 date:           2021-02-01 00:00:00 +0800
 selected:       false
 pub:            "Zhuzhou Gear Company"

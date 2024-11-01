@@ -1,5 +1,6 @@
 ---
-title:          "Spatiotemporal Trajectory Data Storage and Indexing Optimization (Project Leader)"
+title:          "Spatiotemporal Trajectory Data Storage and Indexing Optimization"
+position:       Project Leader
 date:           2021-010-01 00:00:00 +0800
 selected:       false
 pub:            "Hunan Education Department"

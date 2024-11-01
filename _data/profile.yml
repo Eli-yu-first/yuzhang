@@ -61,17 +61,33 @@ experience:
   logo: /assets/images/badges/Shanghai_AILab.png
   position: CEO & Chairman
   date: Mar. 2023 - present
+- name: Member of the public welfare rescue team
+  logo: /assets/images/badges/lanhai_logo.png
+  position: Commander of the youth commando unit
+  date: Mar. 2021 - present
+- name: Graduate Students Committee of Tsinghua University, the Communist Youth League
+  logo: /assets/images/badges/Tsinghua_logo.png
+  position: Deputy Minister
+  date: Mar. Sep. 2023 - Jul. 2024
+- name: The third class of the 21st grade of big data
+  logo: /assets/images/badges/HNUST_logo.png
+  position: Education counselor
+  date: Mar. Sep. 2021 - Jul. 2023
 
 awards:
-- name: The Mathematical Contest in Modeling (MCM) ——  [Finalist Award, top 1%]
+- name: The Mathematical Contest in Modeling (MCM) —  [Finalist Award, top 1%] * 2 
   date: 2023
-- name: National College Student Algorithm Design and Programming Challenge ——  [Gold Medal]
+- name: College Student Algorithm Design and Programming Challenge —  [Gold Medal]
   date: 2023
 - name: Software copyrights * 6, Utility model patent * 1, Patent for invention * 1
-  date: 2021
-- name: China International “Internet Plus” Innovation and Entrepreneurship Competition ——  [Gold Medal]
-  date: 2022
-- name: China International College Students' Innovation Competition ——  [Gold Medal]
+  date: 2023
+- name: >- 
+        International “Internet+” Innovation and Entrepreneurship Competition —  
+        <span class="badge badge-pill badge-info">Gold</span>
+  date: 2023
+- name: >- 
+        China International College Students' Innovation Competition ——   
+        <span class="badge badge-pill badge-info">Gold</span>
   date: 2023
 - name: Outstanding cadre, outstanding graduate of Hunan Province
   date: 2023
@@ -79,5 +95,5 @@ awards:
   date: 2022
 - name: Qingdao City Coronavirus Prevention and Control Hero Medal
   date: 2021
-- name: Outstanding university-level entrepreneur
+- name: International outstanding young volunteer
   date: 2022

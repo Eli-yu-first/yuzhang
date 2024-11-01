@@ -1,5 +1,6 @@
 ---
-title:          "Exam Paper Generation System Development (Project Leader)"
+title:          "Exam Paper Generation System Development"
+position:       Project Leader
 date:           2020-12-01 00:00:00 +0800
 selected:       false
 pub:            "University Project"
