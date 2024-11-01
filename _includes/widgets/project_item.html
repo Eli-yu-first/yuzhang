@@ -12,8 +12,8 @@
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             </hr>
             <div class="my-1 d-flex">
-                <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-                <p class="mt-0 mb-0 small"> ( As <i class="fa-light fa-user-graduate"></i> {{ item.position }} ) </p>
+<!--                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p> -->
+                <p class="mt-0 mb-0 small"><i class="fa-solid fa-user-tie"></i> {{ item.position }} </p>
             </div>
             <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>, {{ item.during }} {{ item.pub_last }}</p>
             <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
