@@ -5,18 +5,24 @@ date: 2024-12-13 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Zhang Yu's homepage!</h2>
+    <h3>Welcome to Eli_Yu's homepage!</h3>
     <hr />
-    <p>
-        I am a dedicated researcher and project leader with a deep academic foundation in artificial intelligence, machine learning, and deep learning. My studies in these areas are extensive, and I have developed both theoretical knowledge and practical expertise through a variety of research projects. I bring a strong, research-oriented approach to my work, having participated in and led numerous projects that leverage advanced AI methodologies. My experience spans both technical and management roles, where I have been responsible for high-impact research and innovative project development.
-    </p>
-    <p>
-        With a strong sense of innovation and strategic insight, I am well-versed in the scientific research process, from initial ideation through to publication. I have authored research papers, managed collaborative teams, and consistently ensured that project outcomes align with high standards of academic excellence. My leadership skills are complemented by effective communication, a holistic mindset, and an ability to foster a team-oriented environment. I am highly adaptable, capable of managing multiple tasks under pressure, and dedicated to executing projects with precision and integrity.
-    </p>
-    <p>
-        I'm pursuing a PhD at a prestigious U.S. institution such as Stanford, MIT, CMU, or UCB, where I can deepen my expertise in AI. Alternatively, I am interested in an AI product manager position that allows me to apply my skills to innovative, market-driven solutions. I am focused on building the knowledge and skills necessary to establish my own venture in the future, combining my research background with entrepreneurial acumen to drive advancements in AI and machine learning applications.
-    </p>
-    <p>
-        I firmly believe that through continuous learning and practice, we can bring innovative power to the field of artificial intelligence and contribute to the progress of society..
-    </p>
+    <section style="text-align: justify;">
+        <p>
+        <h6>My Description</h6>
+            I am a dedicated researcher and project leader with a strong academic foundation in <strong>Artificial Intelligence, Machine Learning, and Deep Learning</strong>. My work combines theoretical insights with practical application across a diverse range of AI research projects. I have a robust research-driven approach and extensive experience in both technical and management roles, which allows me to drive impactful research and innovation.
+        </p>
+    </section>
+    <section style="text-align: justify;">
+        <h6>Research and Leadership Experience</h6>
+        <p>
+            With a strategic and innovative mindset, I am adept at guiding research from ideation to publication. My experience includes authoring papers, leading collaborative teams, and ensuring that projects meet the highest academic standards. My leadership style emphasizes effective communication, a collaborative spirit, and the ability to adapt under pressure.
+        </p>
+    </section>
+    <section style="text-align: justify;">
+        <h6>Future Goals</h6>
+        <p>
+            Currently, I am pursuing a PhD at a top-tier U.S. institution (Stanford, MIT, CMU, or UCB) to deepen my expertise in AI. I am also exploring roles as an AI product manager, where I can apply my skills to market-driven solutions. My ultimate aim is to merge my research background with entrepreneurial aspirations, laying the groundwork for a future AI venture that contributes to societal advancements.
+        </p>
+    </section>
 </div>
