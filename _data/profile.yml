@@ -57,7 +57,10 @@ experience:
   logo: /assets/images/badges/Shanghai_AILab.png
   position: Research Intern, Algorithm Manager
   date: Sep. 2023 - present
-- name: Yuheng New Intelligence Technology Co., Ltd.
+- name: >- 
+        Yuheng New Intelligence Technology Co., Ltd. 
+        <span class="badge badge-pill badge-success">ENTREPRENEURSHIP</span>
+
   logo: /assets/images/badges/Shanghai_AILab.png
   position: CEO & Chairman
   date: Mar. 2023 - present
@@ -74,20 +77,25 @@ experience:
   position: Education counselor
   date: Mar. Sep. 2021 - Jul. 2023
 
+
 awards:
-- name: The Mathematical Contest in Modeling (MCM) —  [Finalist Award, top 1%] * 2 
+- name: >- 
+        The Mathematical Contest in Modeling (MCM) * 2  —  
+        <span class="badge badge-pill badge-primary">Finalist Award, top 1%</span>
   date: 2023
-- name: College Student Algorithm Design and Programming Challenge —  [Gold Medal]
+- name: >- 
+        National College Student Algorithm Design and Programming Challenge —  
+        <span class="badge badge-pill badge-warning">Gold</span>
   date: 2023
 - name: Software copyrights * 6, Utility model patent * 1, Patent for invention * 1
   date: 2023
 - name: >- 
         International “Internet+” Innovation and Entrepreneurship Competition —  
-        <span class="badge badge-pill badge-info">Gold</span>
+        <span class="badge badge-pill badge-warning">Gold</span>
   date: 2023
 - name: >- 
-        China International College Students' Innovation Competition ——   
-        <span class="badge badge-pill badge-info">Gold</span>
+        China International College Students' Innovation Competition —    
+        <span class="badge badge-pill badge-warning">Gold</span>
   date: 2023
 - name: Outstanding cadre, outstanding graduate of Hunan Province
   date: 2023
@@ -97,3 +105,9 @@ awards:
   date: 2021
 - name: International outstanding young volunteer
   date: 2022
+- name: Advanced individual in academic research
+  date: 2022
+- name: Advanced individual in innovation and entrepreneurship
+  date: 2022
+- name: Network Technology Challenge — [First prize of Central China Division]
+  date: 2021
