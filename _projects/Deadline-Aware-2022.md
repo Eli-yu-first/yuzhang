@@ -1,6 +1,7 @@
 ---
 title:          "Deadline-Aware Dynamic Task Scheduling in Edge–Cloud Collaborative Computing"
 position:       Project Leader
+during:         Jun. 2021 - Aug. 2022
 date:           2022-08-08 00:00:00 +0800
 selected:       false
 pub:            "Electronics"
