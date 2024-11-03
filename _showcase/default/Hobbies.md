@@ -3,8 +3,10 @@ show: true
 width: 8
 date: 2024-11-12 00:17:00 +0800
 ---
-<div style="height:15%">
-  <img class="lazy w-100 rounded-sm">
+<div>
+<!-- <div style="height:15%"> -->
+<!--   <img class="lazy w-100 rounded-sm"> -->
+  <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <h5 class="card-title"><i class="fa-solid fa-earth-asia"></i> Hobbies & Interests</h5>
