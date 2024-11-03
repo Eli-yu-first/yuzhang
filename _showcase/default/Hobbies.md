@@ -3,7 +3,7 @@ show: true
 width: 8
 date: 2024-11-12 00:17:00 +0800
 ---
-<div>
+<div style="height:15%">
   <img class="lazy w-100 rounded-sm">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
