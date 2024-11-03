@@ -10,7 +10,7 @@ positions:
 
 
 email: "zy1914517727@gmail.com"
-# cv_link: link-to-your-cv-file
+cv_link: https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/
 gscholar: INA7I98AAAAJ # This is an example, replace it with your own Google Scholar ID
 github: Eli-yu-first
 twitter: YuEli0681790578  # Do not include the '@' symbol
@@ -23,12 +23,17 @@ orcid: 0000-0001-8968-6683
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    As a <a href="https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/" target="_blank">Master’s student at Tsinghua University</a> ’s National School of Excellence in Engineering, my research focuses on advanced AI-accelerated chips and unsupervised anomaly detection models. I am currently a Research Assistant under Professor Qing Li’s team at the Pengcheng National Key Laboratory, where I specialize in network anomaly detection mechanisms for edge devices. 
-  </p>
-  <p>
-  My ongoing projects at Tsinghua’s AI Lab and within the smart factory domain address challenges in model compression and task scheduling. Notably, I have designed adaptive knowledge distillation techniques to compress visual models for CVPR 2025 submission and developed time-sensitive scheduling algorithms to enhance Edge-Cloud computing efficiency in industrial applications. Beyond research, I co-founded a software outsourcing studio, and my work in applied AI has earned national awards, including two gold medals in China’s Internet+ Innovation Competition. My skill set includes Java, Python, machine learning frameworks, and distributed computing platforms like Spark and Hadoop.
-  </p>
+  <section style="text-align: justify;">
+    <p>
+      As a <a href="https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/" target="_blank">Master’s student at Tsinghua University</a> ’s National School of Excellence in Engineering, my research focuses on advanced AI-accelerated chips and unsupervised anomaly detection models. I am currently a Research Assistant under Professor Qing Li’s team at the Pengcheng National Key Laboratory, where I specialize in network anomaly detection mechanisms for edge devices. 
+    </p>
+  </section>
+  <section style="text-align: justify;">
+    <p>
+    My ongoing projects at Tsinghua’s AI Lab and within the smart factory domain address challenges in model compression and task scheduling. Notably, I have designed adaptive knowledge distillation techniques to compress visual models for CVPR 2025 submission and developed time-sensitive scheduling algorithms to enhance Edge-Cloud computing efficiency in industrial applications. Beyond research, I co-founded a software outsourcing studio, and my work in applied AI has earned national awards, including two gold medals in China’s Internet+ Innovation Competition. My skill set includes Java, Python, machine learning frameworks, and distributed computing platforms like Spark and Hadoop.
+    </p>
+  </section>
+
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: Yu Zhang(张宇) · Eli_Yu
 
