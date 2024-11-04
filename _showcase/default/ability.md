@@ -15,7 +15,7 @@ date: 2024-12-13 00:01:00 +0800
         <li>Data analysis and data mining (knowledge in Hadoop, HBase, Spark, Tableau)</li>
         <li>Computer vision tasks (image recognition, object detection) and edge computing technologies and research processes</li>
         <li>Proficient in Office tools (freelance part-time)</li>
-        <li>9 open source repositories on Gitee; over 670,000 views on CSDN personal blog, once topped CSDN's AI content leaderboard</li>
+        <li>9 open source repositories on Gitee; over 670,000 views on <a href="https://github.com/Eli-yu-first" target="_blank"> CSDN </a> personal blog, once topped CSDN's AI content leaderboard</li>
         <li>Strong research interest, familiar with general research processes, experience in writing papers and leading teams, strong innovative spirit;</li>
         <li>Rich leadership experience, strong communication skills, team spirit, and overall awareness;</li>
         <li>High stress tolerance, capable of delivering high-quality performance on multiple tasks; adaptable, can integrate quickly into new roles;</li>
