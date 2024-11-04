@@ -22,6 +22,10 @@
                 <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
                 {% endif %}
                 {% endfor %}
+                
+<!--                 {% if item.cite %}
+                    <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-cite">[Cite]</a>
+                {% endif %} -->
             </p>
 
         </div>
@@ -51,4 +55,22 @@
         </div>
     </div>
 
+<!-- {% if item.cite %}
+<div class="modal fade" id="modal-cite" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+<!--             <div class="modal-body p-0">
+                <img src="{{ site.data.profile.wechat_qrcode | relative_url }}" class="img-fluid">
+            </div> -->
+            {% if item.cite %}
+            <div class="modal-body p-1">
+                {{ item.cite }}
+            </div>
+            {% endif %}
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div> -->
 </div>
