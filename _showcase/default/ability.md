@@ -7,6 +7,7 @@ date: 2024-12-13 00:01:00 +0800
 <div class="p-4">
     <h5><i class="fa-solid fa-circle-check"></i> Professional Skills</h5>
     <hr />
+    <section style="text-align: justify;">
     <ul>
         <li>Java project development, front end (Vue), back end (SpringBoot, Intermediate Software Designer)</li>
         <li>Machine Learning (e.g., sklearn) and Deep Learning frameworks (e.g., TensorFlow, PyTorch)</li>
@@ -21,4 +22,5 @@ date: 2024-12-13 00:01:00 +0800
         <li>Strong learning ability, high execution skills, responsible; clear goals, logical thinking, thorough consideration;</li>
         <li>Capable of efficiently allocating and utilizing resources, ensuring project output, and promoting efficient project communication and rapid implementation.</li>
     </ul>
+    </section>
 </div>
