@@ -43,10 +43,10 @@ education:
     Institute of Nuclear and New Energy Technology <br/>
     Master. Student
   date: Sep. 2023 - present
-- name: Hunan University of Science and Technology
-  logo: /assets/images/badges/HNUST_logo.png
-  position: B.S. in Data science and big data technology
-  date: Sep. 2019 - June 2023
+# - name: Hunan University of Science and Technology
+#   logo: /assets/images/badges/HNUST_logo.png
+#   position: B.S. in Data science and big data technology
+#   date: Sep. 2019 - June 2023
 
 experience:
 - name: Tsinghua Shenzhen International Graduate School, China
