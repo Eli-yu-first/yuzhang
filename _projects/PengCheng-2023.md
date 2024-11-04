@@ -17,5 +17,5 @@ authors:
 links:
   NIPS2024: https://mp.weixin.qq.com/s/cTPrqj2wVgx8rZg5eDF5Kw
   NIPS2023: https://papers.nips.cc/paper_files/paper/2023/hash/c43b987f23fd5ea840df2b2be426315c-Abstract-Conference.htmlhttps://ieeexplore.ieee.org/document/10621157
-  INFOCON: https://ieeexplore.ieee.org/document/10621157
+  INFOCOM: https://ieeexplore.ieee.org/document/10621157
 ---
