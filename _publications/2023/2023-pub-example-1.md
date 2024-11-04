@@ -14,6 +14,5 @@ authors:
   - Jiaming Zhang
 links:
   Paper: https://www.mdpi.com/2079-9292/11/15/2464
-cite:
-  Paper: https://www.mdpi.com/2079-9292/11/15/2464
+  cite: https://www.mdpi.com/2079-9292/11/15/2464
 ---
