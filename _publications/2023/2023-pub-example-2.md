@@ -18,4 +18,5 @@ authors:
 links:
   Paper: https://openreview.net/forum?id=zfCNwRQ569
   Code: https://github.com/Ruoyu-Li/UAD-Rule-Extraction
+  Cite: https://dblp.org/rec/conf/nips/LiLZZJY23.html?view=bibtex
 ---
