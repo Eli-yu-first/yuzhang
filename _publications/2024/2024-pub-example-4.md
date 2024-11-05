@@ -19,14 +19,14 @@ authors:
   - Yong Jiang
 links:
   Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
-cite: >
-  @inproceedings{
+cite: |
+  <div>@inproceedings{
   anonymous2024dissect,
   title={Dissect Black Box: Interpreting for Rule-Based Explanations in Unsupervised Anomaly Detection},
   author={Anonymous},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024},
   url={https://openreview.net/forum?id=h6o6qXLmHZ}
-  }
+  }</div>
 
 ---
