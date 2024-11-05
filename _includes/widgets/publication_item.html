@@ -25,6 +25,7 @@
                 
                 {% if item.cite %}
                     <a class="pr-3 no-break" data-toggle="cite" data-target="#modal-cite">[Cite]</a>
+                    <a target="_blank" href="{{ item.cite |/ relative_url }}">[Cite-1]</a>/
                 {% endif %}
             </p>
 
