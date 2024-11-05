@@ -20,7 +20,7 @@ authors:
 links:
   Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
 cite: >-
-    @inproceedings{
+    <div>@inproceedings{
   anonymous2024dissect,
   title={Dissect Black Box: Interpreting for Rule-Based Explanations in Unsupervised Anomaly Detection},
   author={Anonymous},
@@ -28,4 +28,6 @@ cite: >-
   year={2024},
   url={https://openreview.net/forum?id=h6o6qXLmHZ}
   }
+  </div>
+
 ---
