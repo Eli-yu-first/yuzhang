@@ -2,7 +2,7 @@
 show: true
 width: 4
 date: 2018-09-12 00:01:00 +0800
-height: 295px
+height: 285px
 images:
 - src: /assets/images/covers/NIPS2024.jpg
   title: Dissect Black Box
