@@ -1,6 +1,6 @@
 ---
 show: true
-width: 8
+width: 7
 date: 2024-11-10 00:01:00 +0800
 ---
 <div class="p-4 text-center"> 
