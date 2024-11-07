@@ -19,5 +19,5 @@ authors:
   - Yong Jiang
 links:
   Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
-cite1: /_publications/bibtex/DissectBlack-bib.html
+cite: /publications/bibtex/DissectBlack-bib.html
 ---
