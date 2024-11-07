@@ -12,7 +12,7 @@ images:
   desc: Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction
 - src: /assets/images/covers/INFOCOM2024.jpg
   title: Genos Pipline
-  desc: Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction —— pipline
+  desc: 'Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction —— pipline'
 - src: /assets/images/covers/Deadline-Aware2022.jpg
   title: Deadline-Aware
   desc: Deadline-Aware —— pipline
