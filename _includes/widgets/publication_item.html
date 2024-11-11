@@ -23,9 +23,11 @@
                 {% endif %}
                 {% endfor %}
                 
-<!--                 {% if item.cite %}
-                    <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-cite">[Cite]</a>
-                {% endif %} -->
+                {% if item.cite %}
+<!--                     <a class="pr-3 no-break" data-toggle="cite" data-target="#modal-cite">[Cite]</a> -->
+                    <a target="_blank" href="{{ item.cite | relative_url }}">[Cite]</a>
+                {% endif %}
+                
             </p>
 
         </div>
@@ -55,13 +57,10 @@
         </div>
     </div>
 
-<!-- {% if item.cite %}
+{% if item.cite %}
 <div class="modal fade" id="modal-cite" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-sm">
         <div class="modal-content">
-<!--             <div class="modal-body p-0">
-                <img src="{{ site.data.profile.wechat_qrcode | relative_url }}" class="img-fluid">
-            </div> -->
             {% if item.cite %}
             <div class="modal-body p-1">
                 {{ item.cite }}
@@ -72,5 +71,6 @@
             </div>
         </div>
     </div>
-</div> -->
 </div>
+</div>
+{% endif %}

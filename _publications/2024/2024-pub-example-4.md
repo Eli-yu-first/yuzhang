@@ -12,11 +12,12 @@ authors:
   - Yu Zhang
   - Ruoyu Li
   - Nengwu Wu
-  - Qing Li#
+  - Qing Li
   - Xinhan Lin
   - Yang Hu
   - Tao Li
   - Yong Jiang
 links:
   Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
+cite: /publications/bibtex/DissectBlack-bib.html
 ---

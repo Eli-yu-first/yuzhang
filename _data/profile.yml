@@ -8,7 +8,7 @@ positions:
 - logo: /assets/images/badges/Shanghai_AILab.png
   name: Shanghai Artificial Intelligence Laboratory, China
 
-email: “yu-zhang23@mails.tsinghua.edu.cn”#"zy1914517727@gmail.com"
+email: yu-zhang23@mails.tsinghua.edu.cn 
 # cv_link: https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/
 gscholar: INA7I98AAAAJ # This is an example, replace it with your own Google Scholar ID
 github: Eli-yu-first
@@ -62,7 +62,7 @@ experience:
   position: Research Intern, Algorithm Manager
   date: Sep. 2023 - present
 - name: Yuheng New Intelligence Technology Co., Ltd. 
-  logo: /assets/images/badges/Shanghai_AILab.png
+  logo: /assets/images/badges/YuHeng_logo.png
   position: CEO & Chairman
   date: Mar. 2023 - present
 - name: Member of the public welfare rescue team
