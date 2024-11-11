@@ -26,6 +26,8 @@
                 {% if item.cite %}
 <!--                     <a class="pr-3 no-break" data-toggle="cite" data-target="#modal-cite">[Cite]</a> -->
                     <a target="_blank" href="{{ item.cite | relative_url }}">[Cite]</a>
+                    <button onclick="copyCitation('/publications/bibtex/DissectBlack-bib.html')" class="btn btn-sm btn-outline-secondary">Copy Citation</button>
+
                 {% endif %}
                 
             </p>
