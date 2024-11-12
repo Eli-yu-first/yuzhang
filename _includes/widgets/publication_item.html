@@ -22,13 +22,9 @@
                 <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
                 {% endif %}
                 {% endfor %}
-                
                 {% if item.cite %}
                     <a target="_blank" href="{{ item.cite | relative_url }}">[Cite]</a>
-<!--                     <a class="pr-3 no-break" data-toggle="cite" data-target="#modal-cite">[Cite]</a> -->
-<!--                     <button onclick="copyCitation('/publications/bibtex/DissectBlack-bib、.html')" class="btn btn-sm btn-outline-secondary">Copy Citation</button> -->
                 {% endif %}
-                
             </p>
 
         </div>
@@ -44,7 +40,7 @@
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
                 <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
                 <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
-
+                
                 <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                     {% for link in item.links %}
                     {% if link[1].url %}
@@ -57,40 +53,4 @@
             </div>
         </div>
     </div>
-
-<!-- {% if item.cite %}
-<div class="modal fade" id="modal-cite" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-sm">
-        <div class="modal-content">
-            {% if item.cite %}
-            <div class="modal-body p-1">
-                {{ item.cite }}
-            </div>
-            {% endif %}
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
 </div>
-</div>
-{% endif %} -->
-
-<script>
-function copyCitation(path) {
-    fetch(path)
-        .then(response => response.text())
-        .then(html => {
-            // Parse the HTML to extract <pre> content
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            const citationText = doc.querySelector('pre').textContent.trim();
-            
-            // Copy citation to clipboard
-            navigator.clipboard.writeText(citationText)
-                .then(() => alert('Citation copied to clipboard!'))
-                .catch(err => console.error('Failed to copy text: ', err));
-        })
-        .catch(error => console.error('Error fetching citation:', error));
-}
-</script>
