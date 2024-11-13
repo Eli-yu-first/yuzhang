@@ -12,10 +12,10 @@ navbar_title: About me
     <div class="grid-sizer col-1"></div>
     {% for item in group.items %}
     {% assign width_sm = item.width | times: 2 | at_most: 16 %}
-    {% if width_sm > 7 %}{% assign width_sm = 16 %}{% endif %}
+    {% if width_sm > 8 %}{% assign width_sm = 16 %}{% endif %}
 
     {% assign width_xs = item.width | times: 3 | at_most: 16 %}
-    {% if width_xs > 7 %}{% assign width_xs = 16 %}{% endif %}
+    {% if width_xs > 8 %}{% assign width_xs = 16 %}{% endif %}
 
     <div class="p-2 grid-item col-md-{{ item.width | at_most: 16 }} col-sm-{{ width_sm }} col-{{ width_xs }}">
         <div class="{% if item.class != null %}{{ item.class }}{% else %}card border-0 shadow-sm bg-white{% endif %}">
