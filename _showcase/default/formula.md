@@ -1,7 +1,7 @@
 ---
 show: true
 width: 7
-date: 2016-11-10 00:01:00 +0800
+date: 2018-11-10 00:01:00 +0800
 ---
 <div class="p-4 text-center"> 
   $Innovation = \left( \frac{\sqrt{(Knowledge \cdot Experience)^2 + (Collaboration \cdot Creativity)^2}}{Time + Resources} \right)^{Adaptability} \\+ \int_{0}^{Goals} \frac{Vision \cdot Execution}{Obstacles + \delta} \, d\text{effort}$
