@@ -1,6 +1,6 @@
 ---
 show: true
-width: 7
+width: 8
 date: 2024-11-12 00:17:00 +0800
 ---
 <div>
