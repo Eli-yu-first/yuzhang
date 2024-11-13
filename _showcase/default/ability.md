@@ -8,7 +8,7 @@ date: 2024-12-13 00:01:00 +0800
     <h5><i class="fa-solid fa-circle-check"></i> Professional Skills</h5>
     <hr />
     <section style="text-align: justify;">
-        <ul style="padding-left: 0em; list-style-position: inside;">
+        <ul style="padding-left: 5em; list-style-position: inside;">
             <li>Java project development, front end (Vue), back end (SpringBoot, Intermediate Software Designer)</li>
             <li>Machine Learning (e.g., sklearn) and Deep Learning frameworks (e.g., TensorFlow, PyTorch)</li>
             <li>Familiar with large model theories (completed Advanced Machine Learning course by Professor Tang Jie)</li>
