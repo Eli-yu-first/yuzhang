@@ -1,6 +1,6 @@
 ---
 show: true
-width: 5
+width: 6
 date: 2020-01-12 00:01:00 +0800
 ---
 <div>
