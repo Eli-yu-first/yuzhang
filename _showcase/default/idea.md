@@ -12,18 +12,18 @@ date: 2021-12-13 00:01:00 +0800
             width: 100%;
             border-collapse: separate;
             border-spacing: 0;
-            border-radius: 12px;
-            border: 1px solid #ddd;
+            border-radius: 10px;
+            border: 0.8px solid #ddd;
             font-family: Arial, sans-serif;
-            font-size: 14px;
+            font-size: 16px;
             text-align: center;
         ">
             <thead>
-                <tr style="background-color: #f7f7f7; border-bottom: 1px solid #ddd;">
-                    <th style="padding: 12px; border-radius: 12px 0 0 0;">Idea</th>
+                <tr style="background-color: #f7f7f7; border-bottom: 0.7px solid #ddd;">
+                    <th style="padding: 12px; border-radius: 10px 0 0 0;">Idea</th>
                     <th style="padding: 12px;">Progress</th>
                     <th style="padding: 12px; text-align: left;">Description</th>
-                    <th style="padding: 12px; border-radius: 0 12px 0 0;">Image</th>
+                    <th style="padding: 12px; border-radius: 0 10px 0 0;">Image</th>
                 </tr>
             </thead>
             <tbody>
