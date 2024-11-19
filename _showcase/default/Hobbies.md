@@ -10,7 +10,7 @@ date: 2024-11-12 00:17:00 +0800
 <!--   <img data-src="{{ 'as/sets/images/covers/cover1.jpg' |/ relative_url }}" class="lazy w-100 roun/ded-sm" > -->
 
   <!--  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)"> -->
-  <div class="p-4" style="background-image: linear-gradient(rgba(221, 228, 255, 0.1),rgba(141, 162, 238, 0.1));">
+  <div class="p-4" style="background-image: linear-gradient(rgba(221, 228, 255, 0.02),rgba(141, 162, 238, 0.02));">
     <h6 class="card-title"><i class="fa-solid fa-earth-asia"></i> Hobbies & Interests</h6>
     <hr />
     <section style="text-align: justify;">
