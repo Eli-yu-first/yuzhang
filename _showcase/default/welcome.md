@@ -16,7 +16,7 @@ date: 2024-12-13 00:01:00 +0800
     <section style="text-align: justify;">
         <h6>Research and Leadership Experience</h6>
         <p>
-            With a strategic and innovative mindset, I am adept at guiding research from ideation to publication. My experience includes authoring papers, leading collaborative teams, and ensuring that projects meet the highest academic standards. **My leadership style emphasizes effective communication, a collaborative spirit, and the ability to adapt under pressure. I am good at observing phenomena and at identifying and solving problems.**
+            With a strategic and innovative mindset, I am adept at guiding research from ideation to publication. My experience includes authoring papers, leading collaborative teams, and ensuring that projects meet the highest academic standards. <strong>My leadership style emphasizes effective communication, a collaborative spirit, and the ability to adapt under pressure. I am good at observing phenomena and at identifying and solving problems.</strong>
         </p>
     </section>
     <section style="text-align: justify;">
