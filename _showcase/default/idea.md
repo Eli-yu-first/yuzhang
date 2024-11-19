@@ -5,7 +5,7 @@ date: 2021-12-13 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h 6><i class="fa-regular fa-lightbulb fa-bounce"></i> Some of My Whims </h6>
+    <h6><i class="fa-regular fa-lightbulb fa-bounce"></i> Some of My Whims </h6>
     <hr />
     <section style="text-align: justify;">
         <table style="
