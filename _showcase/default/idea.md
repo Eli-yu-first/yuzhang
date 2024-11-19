@@ -71,20 +71,6 @@ date: 2021-12-13 00:01:00 +0800
                         </a>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 12px; border-radius: 0 0 0 12px;">
-                        Data Analysis and Data Mining
-                    </td>
-                    <td style="padding: 12px;">
-                        Competent
-                    </td>
-                    <td style="padding: 12px; border-radius: 0 0 0;">
-                        Experienced in utilizing tools and platforms such as Hadoop, HBase, Spark, and Tableau for extracting meaningful insights from large datasets.
-                    </td>
-                    <td style="padding: 12px; text-align: center; border-radius: 0 0 12px 0;">
-                        <img src="{{ 'assets/images/covers/SpeedBump.png' | relative_url }}" alt="Data Analysis" style="max-width: 100px; border-radius: 8px;">
-                    </td>
-                </tr>
             </tbody>
         </table>
     </section>
