@@ -7,7 +7,7 @@ date: 2021-12-13 00:01:00 +0800
 <div class="p-4">
     <h6><i class="fa-regular fa-lightbulb fa-bounce"></i> Some of My Whims </h6>
     <hr />
-    <section style="text-align: justify;">
+    <section style="text-align: justify; background-image: linear-gradient(220.55deg, rgba(143, 255, 133, 0.1), rgba(57, 160, 255, 0.1))">
         <table style="
             width: 100%;
             border-collapse: separate;
