@@ -7,10 +7,10 @@ date: 2024-11-12 00:17:00 +0800
 <!-- <div style="height:15%"> -->
 <!--   <img class="lazy w-100 rounded-sm"> -->
 <!--   <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" 、class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
-  <img data-src="{{ 'assets/images/covers/cover1.jpg' |/ relative_url }}" class="lazy w-100 roun/ded-sm" >
+<!--   <img data-src="{{ 'as/sets/images/covers/cover1.jpg' |/ relative_url }}" class="lazy w-100 roun/ded-sm" > -->
 
-  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-  <!--  <div class="p-4"> -->
+  <!--  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)"> -->
+  <div class="p-4" style="background: rgb(204,255,255,0.8)">
     <h6 class="card-title"><i class="fa-solid fa-earth-asia"></i> Hobbies & Interests</h6>
     <hr />
     <section style="text-align: justify;">
