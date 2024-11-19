@@ -34,7 +34,7 @@ date: 2021-12-13 00:01:00 +0800
                     <td style="padding: 12px; border-bottom: 1px solid #ddd;">
                         Feasibility Verified
                     </td>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: left;">
                         This concept leverages the immense pressure found in deep-sea environments to generate electricity. By using piezoelectric ceramics, the pressure potential energy can be converted into electrical energy. However, current conversion efficiency remains low, necessitating further optimization.	
                     </td>
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;">
@@ -48,7 +48,7 @@ date: 2021-12-13 00:01:00 +0800
                     <td style="padding: 12px; border-bottom: 1px solid #ddd;">
                         Feasibility Verified
                     </td>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: left;">
                         Traditional speed bumps are placed on both sides of an intersection, often causing unnecessary deceleration after crossing the junction. A one-way speed bump design would target vehicles approaching the intersection, enhancing traffic flow efficiency without compromising safety.
                     </td>
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;">
@@ -62,7 +62,7 @@ date: 2021-12-13 00:01:00 +0800
                     <td style="padding: 12px; border-bottom: 1px solid #ddd;">
                         Developed Successfully
                     </td>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: left;">
                         Microsoft Office users currently face inefficiencies when managing multiple Office files as each opens in a separate window. Implementing a tab-based interface within Office applications significantly improves multi-file navigation and enhances productivity.
                     </td>
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;">
