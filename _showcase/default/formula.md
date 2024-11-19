@@ -1,6 +1,6 @@
 ---
 show: true
-width: 9
+width: 10
 date: 2018-08-10 00:01:00 +0800
 ---
 <div class="p-4 text-center"> 
