@@ -1,6 +1,6 @@
 ---
 show: true
-width: 7
+width: 12
 date: 2021-12-13 00:01:00 +0800
 ---
 
