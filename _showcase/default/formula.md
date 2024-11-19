@@ -1,10 +1,10 @@
 ---
 show: true
-width: 7
-date: 2024-11-10 00:01:00 +0800
+width: 9
+date: 2018-08-10 00:01:00 +0800
 ---
 <div class="p-4 text-center"> 
-  $Innovation = \left( \frac{\sqrt{(Knowledge \cdot Experience)^2 + (Collaboration \cdot Creativity)^2}}{Time + Resources} \right)^{Adaptability} \\+ \int_{0}^{Goals} \frac{Vision \cdot Execution}{Obstacles + \delta} \, d\text{effort}$
+  $Innovation = \left( \frac{\sqrt{(Knowledge \cdot Experience)^2 + (Collaboration \cdot Creativity)^2}}{Time + Resources} \right)^{Adaptability} + \int_{0}^{Goals} \frac{Vision \cdot Execution}{Obstacles + \delta} \, d\text{effort}$
 </div>
 
 <!-- 适应性作为加权因子：**适应性（Adaptability）**不再是指数，而作为一个直接的加权因子，以反映其对创新整体的调节作用。
