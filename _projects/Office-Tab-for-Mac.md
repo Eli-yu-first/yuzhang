@@ -1,8 +1,8 @@
 ---
 title:          "Office-Tab-for-Mac"
-position:       Project Leader
-date:           2022-12-01 00:00:00 +0800
-during:         Dec. 2022 - Dec. 2022
+position:       Project Founder
+date:           2022-12-01 00:01:00 +0800
+during:         Nov. 2022 - Dec. 2022
 selected:       false
 pub:            "By my self-development"
 pub_date:       "2022"
