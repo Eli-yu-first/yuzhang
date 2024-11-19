@@ -22,7 +22,7 @@ date: 2021-12-13 00:01:00 +0800
                 <tr style="background-color: #f7f7f7; border-bottom: 1px solid #ddd;">
                     <th style="padding: 12px; border-radius: 12px 0 0 0;">Idea</th>
                     <th style="padding: 12px;">Progress</th>
-                    <th style="padding: 12px;">Description</th>
+                    <th style="padding: 12px; text-align: left;">Description</th>
                     <th style="padding: 12px; border-radius: 0 12px 0 0;">Image</th>
                 </tr>
             </thead>
