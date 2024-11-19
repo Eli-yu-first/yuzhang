@@ -14,7 +14,7 @@ date: 2024-11-12 00:18:00 +0800
             <li>High stress tolerance, capable of delivering high-quality performance on multiple tasks; </li>
             <li>I am adaptable, can integrate quickly into new roles;</li>
             <li>Strong learning ability, high execution skills, responsible; </li>
-            <li>I have clear goals, logical thinking, thorough consideration;</li>
+            <li>Clear goals, logical thinking, thorough consideration;</li>
             <li>Capable of efficiently allocating and utilizing resources, ensuring project output, and promoting efficient project communication and rapid implementation.</li>
             <li>I am good at observing phenomena and at identifying and solving problems.</li>
         </ul>
