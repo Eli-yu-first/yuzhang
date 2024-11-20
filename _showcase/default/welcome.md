@@ -4,7 +4,7 @@ width: 7
 date: 2024-12-13 00:01:00 +0800
 ---
 
-<div class="p-4">
+<div class="p-4" style="background-image: linear-gradient(220.55deg, rgba(255, 246, 235, 0.035), rgba(223, 209, 197, 0.035));">
     <h3>Welcome to Eli_Yu's homepage!</h3>
     <hr />
     <section style="text-align: justify;">
