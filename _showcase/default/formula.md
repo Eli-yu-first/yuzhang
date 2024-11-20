@@ -3,7 +3,7 @@ show: true
 width: 10
 date: 2018-08-10 00:01:00 +0800
 ---
-<div class="p-4 text-center"> 
+<div class="p-4 text-center" style="background-image: linear-gradient(220.55deg, rgba(143, 255, 133, 0.026), rgba(57, 160, 255, 0.026));"> 
   $Innovation = \left( \frac{\sqrt{(Knowledge \cdot Experience)^2 + (Collaboration \cdot Creativity)^2}}{Time + Resources} \right)^{Adaptability} + \int_{0}^{Goals} \frac{Vision \cdot Execution}{Obstacles + \delta} \, d\text{effort}$
 </div>
 
