@@ -4,7 +4,7 @@ width: 5
 date: 2024-11-12 00:18:00 +0800
 ---
 
-<div class="p-4" style="background-image: linear-gradient(220.55deg, rgba(143, 255, 133, 0.03), rgba(57, 160, 255, 0.03));">
+<div class="p-4" style="background-image: linear-gradient(220.55deg, rgba(255, 237, 70, 0.02), rgba(255, 126, 199, 0.02));">
     <h6><i class="fa-regular fa-star fa-beat"></i> Competencies</h6>
     <hr />
     <section style="text-align: justify;">
