@@ -22,7 +22,7 @@ date: 2024-12-13 00:01:00 +0800
     <section style="text-align: justify;">
         <h6>Future Goals</h6>
         <p>
-            Currently, I am pursuing a PhD at a top-tier U.S. institution (Stanford, MIT, CMU, or UCB) to deepen my expertise in AI. I am also exploring roles as an AI product manager, where I can apply my skills to market-driven solutions. My ultimate aim is to merge my research background with entrepreneurial aspirations, laying the groundwork for a future AI venture that contributes to societal advancements.
+            Currently, <strong>I am pursuing a PhD at a top-tier U.S. institution (Stanford, MIT, CMU, or UCB) to deepen my expertise in AI</strong>. I am also exploring roles as an AI product manager, where I can apply my skills to market-driven solutions. My ultimate aim is to merge my research background with entrepreneurial aspirations, laying the groundwork for a future AI venture that contributes to societal advancements.
         </p>
     </section>
 </div>
