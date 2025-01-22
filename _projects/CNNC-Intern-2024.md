@@ -15,5 +15,5 @@ authors:
   - Jing Chen
   - Guangduo Xu
 links:
-  [Project Link](http://103.96.74.162/distribution) 
+  Project Link: "http://103.96.74.162/distribution"
 ---
