@@ -63,12 +63,12 @@ experience:
   date: Sep. 2023 - present
 - name: Beijing Mercedes-Benz Automotive Co., Ltd., China
   logo: /assets/images/badges/Benz_logo.png
-  position: Algorithm Intern
+  position: Machine Learning and Digital Twin Algorithms Internship
   date: May 2024 - Oct. 2024
-- name: China National Nuclear Corporation (CNNC)
-  logo: /assets/images/badges/CNNC_logo.png
-  position: Technology Management Intern
-  date: Jun. 2024 - Jan. 2025
+# - name: China National Nuclear Corporation (CNNC)
+#   logo: /assets/images/badges/CNNC_logo.png
+#   position: Technology Management Intern
+#   date: Jun. 2024 - Jan. 2025
 - name: Yuheng New Intelligence Technology Co., Ltd. 
   logo: /assets/images/badges/YuHeng_logo.png
   position: CEO & Chairman
