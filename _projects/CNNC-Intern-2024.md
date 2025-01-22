@@ -13,6 +13,7 @@ authors:
   - Yu Zhang
   - Wei Xiong
   - Jing Chen
-#links:
-  #[Project Link](https://www.example.com)  # Replace with actual link if available
+  - Guangduo Xu
+links:
+  [Project Link](http://103.96.74.162/distribution) 
 ---
