@@ -49,10 +49,10 @@ education:
 #   date: Sep. 2019 - June 2023
 
 experience:
-- name: Tsinghua Shenzhen International Graduate School, China
-  logo: /assets/images/badges/Tsinghua_logo.png
-  position: Research Intern, Algorithm Manager
-  date: Dec. 2022 - Dec. 2023
+- name: Zhipu AI, China
+  logo: /assets/images/badges/Zhipu_logo.png
+  position: GLM-4 Pretraining Algorithm Intern
+  date: Dec. 2024 - Present
 - name: Peng Cheng Laboratory, China
   logo: /assets/images/badges/Tsinghua_logo.png
   position: Research Intern, Algorithm Manager
@@ -114,9 +114,9 @@ awards:
   date: 2021
 - name: International outstanding young volunteer
   date: 2022
-- name: Advanced individual in academic research & in innovation and entrepreneurship
+- name: Advanced individual in academic research
   date: 2022
-# - name: Advanced individual in innovation and entrepreneurship
-#   date: 2022
+- name: Advanced individual in innovation and entrepreneurship
+  date: 2022
 - name: Network Technology Challenge — [First prize of Central China Division]
   date: 2021
