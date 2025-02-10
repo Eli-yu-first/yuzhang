@@ -5,9 +5,12 @@ navbar_name: "Yu Zhang"
 positions:
 - logo: /assets/images/badges/Tsinghua_logo.png  # Logo is optional
   name: Tsinghua University
+- logo: /assets/images/badges/Zhipu_logo.png
+  name: Zhipu AI, China
 - logo: /assets/images/badges/Shanghai_AILab.png
   name: Shanghai Artificial Intelligence Laboratory, China
 
+  
 email: yu-zhang23@mails.tsinghua.edu.cn 
 # cv_link: https://cloud.tsinghua.edu.cn/f/529d362404814d9abbf2/
 gscholar: INA7I98AAAAJ # This is an example, replace it with your own Google Scholar ID
