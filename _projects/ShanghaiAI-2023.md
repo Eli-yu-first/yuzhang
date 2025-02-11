@@ -3,7 +3,7 @@ title:          "Shanghai AI Laboratory Large Chip Group"
 position:       Research Assistant, Algorithm Technical Leader
 date:           2024-11-01 00:00:00 +0800
 during:         Jun. 2023 - present
-selected:       false
+selected:       true
 pub:            "Shanghai AI Laboratory"
 pub_date:       "2024"
 abstract: >-
