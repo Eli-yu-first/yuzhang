@@ -14,5 +14,5 @@ authors:
   - Aohan Zeng
   - Jie Tang
 links:
-  [THUDM/GLM-4](https://github.com/THUDM/GLM-4) 
+  GLM-4: [THUDM/GLM-4](https://github.com/THUDM/GLM-4) 
 ---
