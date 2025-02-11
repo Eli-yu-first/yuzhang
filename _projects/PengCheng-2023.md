@@ -3,7 +3,7 @@ title:          "Peng Cheng National Key Laboratory, Tsinghua University"
 position:       Research Assistant, Algorithm Technical Leader
 during:         Mar. 2023 - Jun. 2024
 date:           2023-02-01 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            "Tsinghua University"
 pub_date:       "2022"
 abstract: >-
