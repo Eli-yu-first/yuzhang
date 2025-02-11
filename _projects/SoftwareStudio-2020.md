@@ -3,7 +3,7 @@ title:          "Software Outsourcing Studio"
 position:       Project Founder
 date:           2024-03-01 00:00:00 +0800
 during:         Oct. 2020 - present
-selected:       false
+selected:       true
 pub:            "Independent"
 pub_date:       "2020"
 abstract: >-
