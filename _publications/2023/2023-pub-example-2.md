@@ -17,6 +17,6 @@ authors:
   - Yong Yang
 links:
   Paper: https://proceedings.neurips.cc//paper_files/paper/2023/hash/c43b987f23fd5ea840df2b2be426315c-Abstract-Conference.html
-  Cite: https://dblp.org/rec/conf/nips/LiLZZJY23.html?view=bibtex
+  BibTeX: https://dblp.org/rec/conf/nips/LiLZZJY23.html?view=bibtex
   Code: https://github.com/Ruoyu-Li/UAD-Rule-Extraction
 ---
