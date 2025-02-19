@@ -17,5 +17,5 @@ authors:
   - Yong Jiang
 links:
   Paper: https://ieeexplore.ieee.org/document/10621157
-  Cite: https://dblp.org/rec/conf/infocom/LiLZZXJ24.html?view=bibtex
+  BibTeX: https://dblp.org/rec/conf/infocom/LiLZZXJ24.html?view=bibtex
 ---
