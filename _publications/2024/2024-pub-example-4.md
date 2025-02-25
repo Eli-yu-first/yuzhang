@@ -18,6 +18,6 @@ authors:
   - Tao Li
   - Yong Jiang
 links:
-  Paper: https://openreview.net/forum?id=h6o6qXLmHZ&referrer=%5BAuthor%20Console%5D
+  Paper: https://papers.neurips.cc/paper_files/paper/2024/file/99261adc8a6356b38bcf999bba9a26dc-Paper-Conference.pdf
 BibTeX: /publications/bibtex/DissectBlack-bib.html
 ---
