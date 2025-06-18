@@ -1,3 +1,4 @@
+<!-- 
 ---
 title:          "China National Nuclear Corporation (CNNC) Energy Technology Co., Ltd., China"
 position:       Technology Management Intern
@@ -17,4 +18,4 @@ authors:
 links:
   Project Link: "http://103.96.74.162/distribution"
 ---
-
+-->
