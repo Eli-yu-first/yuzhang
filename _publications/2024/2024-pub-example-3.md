@@ -1,5 +1,5 @@
 ---
-title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extractio"
+title:          "Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction"
 date:           2024-05-20 00:00:00 +0800
 selected:       true
 pub:            "IEEE INFOCOM 2024 - IEEE Conference on Computer Communications"
