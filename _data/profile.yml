@@ -92,8 +92,16 @@ experience:
 
 awards:
 - name: >- 
+        Tsinghua University First-Class Scholarship  —  
+        <span class="badge badge-pill badge-info">First-Class Scholarship</span>
+  date: 2025
+- name: >- 
+        Tsinghua Engineering Doctoral Forum  —  
+        <span class="badge badge-pill badge-info">Excellent Poster Award</span>
+  date: 2025
+- name: >- 
         The Mathematical Contest in Modeling (MCM) * 2  —  
-        <span class="badge badge-pill badge-info">Finalist Award, top 1%</span>
+        <span class="badge badge-pill badge-info">Finalist Award, top 2%</span>
   date: 2023
 - name: >- 
         National College Student Algorithm Design and Programming Challenge —  
