@@ -1,5 +1,5 @@
 ---
-title:          "Mercedes-Benz Automotive Co., Ltd., China"
+title:          "Mercedes-Benz Group AG internship"
 position:       Machine Learning and Digital Twin Algorithms Internship
 during:         May 2024 - Oct. 2024
 selected:       true
