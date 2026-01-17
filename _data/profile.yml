@@ -1,12 +1,12 @@
 primary_name: "Yu Zhang"
-secondary_name: ""
+secondary_name: "Eli"
 navbar_name: "Yu Zhang"
 
 positions:
 - logo: /assets/images/badges/Tsinghua_logo.png  # Logo is optional
   name: Tsinghua University
 - logo: /assets/images/badges/Zhipu_logo.png
-  name: Zhipu AI, China
+  name: Zhipu AI (Z.ai), China
 - logo: /assets/images/badges/Shanghai_AILab.png
   name: Shanghai Artificial Intelligence Laboratory, China
 
@@ -51,8 +51,8 @@ education:
 #   date: Sep. 2019 - June 2023
 
 experience:
-- name: Zhipu AI, China
-  logo: /assets/images/badges/Zhipu_logo.png
+- name: Zhipu AI (Z.ai), China
+  logo: /assets/images/badges/Zhipu.jpg
   position: GLM-4 Pretraining Algorithm Intern
   date: Nov. 2024 - Present
 - name: Peng Cheng Laboratory, China
