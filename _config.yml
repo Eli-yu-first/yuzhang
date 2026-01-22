@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 plugins:
   - jekyll-email-protect
-
+favicon: /assets/images/badges/favicon.ico
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
