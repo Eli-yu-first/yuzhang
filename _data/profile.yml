@@ -43,7 +43,8 @@ education:
 - name: Tsinghua University
   logo: /assets/images/badges/Tsinghua_logo.png
   position: >- 
-    National School of Excellence in Engineering , Master <br/> Institute of Nuclear and New Energy Technology, Master <br/>
+    National School of Excellence in Engineering , Master 
+#<br/> Institute of Nuclear and New Energy Technology, Master <br/>
   date: Sep. 2023 - present
 # - name: Hunan University of Science and Technology
 #   logo: /assets/images/badges/HNUST_logo.png
@@ -94,9 +95,15 @@ experience:
 
 
 awards:
+- name: Tsinghua University First-Class Scholarship
+  date: 2025
+- name: Tsinghua University Engineering Doctoral Forum Excellent Poster Award
+  date: 2023
 - name: >- 
         The Mathematical Contest in Modeling (MCM) * 2  —  
         <span class="badge badge-pill badge-info">Finalist Award, top 1%</span>
+  date: 2023
+- name: Hunan Province Outstanding Graduate
   date: 2023
 - name: >- 
         National College Student Algorithm Design and Programming Challenge —  
