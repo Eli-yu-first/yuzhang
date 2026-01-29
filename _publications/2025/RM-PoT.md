@@ -12,5 +12,5 @@ authors:
   - Yu Zhang
   - Changsong Lei
 links:
-  arXiv: https://arxiv.org/abs/2502.12589
+  OpenReview: https://openreview.net/forum?id=q163keGleD
 ---
