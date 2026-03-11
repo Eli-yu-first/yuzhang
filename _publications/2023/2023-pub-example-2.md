@@ -18,5 +18,6 @@ authors:
 links:
   Paper: https://proceedings.neurips.cc//paper_files/paper/2023/hash/c43b987f23fd5ea840df2b2be426315c-Abstract-Conference.html
   BibTeX: https://dblp.org/rec/conf/nips/LiLZZJY23.html?view=bibtex
-  Code: https://github.com/Ruoyu-Li/UAD-Rule-Extraction
+  GitHub: <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> https://github.com/Ruoyu-Li/UAD-Rule-Extraction
+
 ---
