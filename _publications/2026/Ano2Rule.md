@@ -18,5 +18,5 @@ authors:
   - Laizhong Cui
 
 links:
-  # OpenReview: https://openreview.net/forum?id=q163keGleD
+  IEEE Transactions on Dependable and Secure Computing: https://ieeexplore.ieee.org/document/11408419
 ---
