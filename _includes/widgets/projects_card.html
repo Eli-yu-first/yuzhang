@@ -1,4 +1,9 @@
-{% assign news_by_year = site.projects | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% if include.publications %}
+  {% assign _projects_to_show = include.publications %}
+{% else %}
+  {% assign _projects_to_show = site.projects | sort: "date" | reverse | slice: 0, include.limit %}
+{% endif %}
+{% assign news_by_year = _projects_to_show | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fa-solid fa-laptop-file"></i> Projects
