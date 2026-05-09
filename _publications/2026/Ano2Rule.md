@@ -19,4 +19,6 @@ authors:
 
 links:
   IEEE Transactions on Dependable and Secure Computing: https://ieeexplore.ieee.org/document/11408419
+  PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408419
+  
 ---
