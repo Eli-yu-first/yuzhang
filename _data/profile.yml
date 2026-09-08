@@ -4,9 +4,9 @@ navbar_name: "Yu Zhang"
 
 positions:
 - logo: /assets/images/badges/CUHK.png  # Logo is optional
-  name: The Chinese University of Hong Kong (CUHK)    (PhD)
+  name: The Chinese University of Hong Kong (CUHK)    <span class="badge badge-pill badge-success">PhD</span>
 - logo: /assets/images/badges/Tsinghua_logo.png  # Logo is optional
-  name: Tsinghua University  (Master)
+  name: Tsinghua University   <span class="badge badge-pill badge-primary">Master</span>
 - logo: /assets/images/badges/Zhipu_logo.png
   name: Zhipu AI (Z.ai), China
 - logo: /assets/images/badges/Shanghai_AILab.png
@@ -29,12 +29,12 @@ short_bio_text_justify: false
 short_bio: >-
   <section style="text-align: justify;">
     <p>
-      I am now a Ph.D. candidate at The Chinese University of Hong Kong, focusing on the research and development of physical AI systems. As a participant of Tsinghua University’s National School of Excellence in Engineering, my research previously covered large‑scale models including LLMs and VLMs as well as unsupervised anomaly detection.
+      I am now a <strong>Ph.D.</strong> candidate at <strong><span style="color:#72246C">The Chinese University of Hong Kong</span></strong>, focusing on the research and development of physical AI systems. As a participant of <strong><span style="color:#660874">Tsinghua University</span></strong>’s National School of Excellence in Engineering, my research previously covered large‑scale models including LLMs and VLMs as well as unsupervised anomaly detection.
     </p>
   </section>
   <section style="text-align: justify;">
     <p>
-    I previously worked as a GLM‑4 Pretraining Algorithm Research Assistant at Zhipu AI, where I improved the model’s mathematical reasoning capability via advanced techniques such as Chain‑of‑Thought (CoT). I have also participated in the development of state‑of‑the‑art algorithms including Qwen and DeepSeek. Beyond fundamental algorithm research, I lead a technical team for the National Key Research and Development Program (NKRDP), building forecasting models to support strategic decision‑making for China’s dual‑carbon objectives. During my tenure at the Shanghai Artificial Intelligence Laboratory, I achieved a 90‑% compression rate for the ViT visual model framework while preserving model accuracy. I also conducted research on AI‑powered anomaly‑detection algorithms at Pengcheng National Laboratory, and supported building‑system energy‑consumption optimization with digital‑twin technologies at Mercedes‑Benz Group.
+    I previously worked as a <strong>GLM‑4 Pretraining Algorithm Research Assistant</strong> at <strong>Zhipu AI</strong>, where I improved the model’s mathematical reasoning capability via advanced techniques such as Chain‑of‑Thought (CoT). I have also participated in the development of state‑of‑the‑art algorithms including Qwen and DeepSeek. Beyond fundamental algorithm research, I lead a technical team for the National Key Research and Development Program (NKRDP), building forecasting models to support strategic decision‑making for China’s dual‑carbon objectives. During my tenure at the <strong> Shanghai Artificial Intelligence Laboratory </strong>, I achieved a 90‑% compression rate for the ViT visual model framework while preserving model accuracy. I also conducted research on AI‑powered anomaly‑detection algorithms at Pengcheng National Laboratory, and supported building‑system energy‑consumption optimization with digital‑twin technologies at <strong> Mercedes‑Benz Group </strong>.
     </p>
   </section>
   <section style="text-align: justify;">
